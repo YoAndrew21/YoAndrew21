@@ -1,6 +1,6 @@
 # Yordan Andres Chavez Barros · Andrew
 
-### 医療・ヘルスケア分野のソフトウェア開発者
+### 🩺 医療・ヘルスケア分野のソフトウェア開発者
 
 主に医療・ヘルスケア分野での3年を超える実務経験を活かし、Webアプリケーションを開発しています。チリを拠点に、海外の仕事にも関心があります。
 
@@ -12,7 +12,7 @@ PostgreSQL · MongoDB · Docker
 
 [English](README.md) | [Español](README_ES.md) | **日本語**
 
-## 主なプロジェクト
+## 🚀 主なプロジェクト
 
 ### PharmaFlow — フルスタックのHealthTechポートフォリオプロジェクト
 
@@ -34,22 +34,22 @@ React、TypeScript、ASP.NET Core / C#、PostgreSQL 18で開発した、医薬�
 
 学校の保健室で実際に行われていた紙ベースの業務をデジタル化するために開発した、軽量なWebアプリケーションです。学校事故の申告手続きの一部を自動化しています。現場の具体的な業務課題を、実用的な方法で解決する取り組みです。
 
-## 実務経験
+## 💼 実務経験
 
 チリでIngeniero InformáticoおよびAnalista Programadorの学位・称号を取得しています。薬局関連ソフトウェア、医療物流・WMS、臨床システム、がん医療関連ソフトウェア、ERP連携に携わってきました。機能分析からフロントエンド・バックエンド開発、API連携、データベース、QA・テスト、既存アプリケーションの保守まで経験しています。
 
 勤務先の業務で開発したコードは非公開で、このGitHubには含まれていません。公開リポジトリには、自分で作成したコードと独立した個人プロジェクトを掲載しています。
 
-## 技術スタック
+## 🛠️ 技術スタック
 
-- **フロントエンド：** React · TypeScript · Angular
-- **バックエンド：** Python · Django · ASP.NET Core / C#
-- **データ：** PostgreSQL · MongoDB
-- **インフラ：** Docker
+- **フロントエンド：** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="22" height="22" align="absmiddle" alt="" /> React · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="22" height="22" align="absmiddle" alt="" /> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="22" height="22" align="absmiddle" alt="" /> Angular
+- **バックエンド：** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" height="22" align="absmiddle" alt="" /> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" width="22" height="22" align="absmiddle" alt="" /> Django · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="22" height="22" align="absmiddle" alt="" /> ASP.NET Core / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="22" height="22" align="absmiddle" alt="" /> C#
+- **データ：** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="22" height="22" align="absmiddle" alt="" /> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="22" height="22" align="absmiddle" alt="" /> MongoDB
+- **インフラ：** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="22" height="22" align="absmiddle" alt="" /> Docker
 
 C# / .NETは以前の使用経験があり、現在はPharmaFlowの開発を通じて知識を深めています。
 
-## 学習中の分野・言語
+## 🌱 学習中の分野・言語
 
 医療情報の相互運用性とHL7 FHIR、Reactの高度なパターン、モダンなソフトウェアアーキテクチャを学んでいます。将来は、日本を含む海外のHealthTechプロジェクトにも貢献したいと考えています。
 
@@ -57,6 +57,6 @@ C# / .NETは以前の使用経験があり、現在はPharmaFlowの開発を通�
 - **英語：** 技術分野・技術文書での使用
 - **日本語：** 初級（個人レッスンで学習中）
 
-## 開発以外では
+## 🎹 開発以外では
 
 独学でピアノを学び、音楽活動も楽しんでいます。

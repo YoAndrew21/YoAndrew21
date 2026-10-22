@@ -1,6 +1,6 @@
 # Yordan Andres Chavez Barros · Andrew
 
-### Desarrollador de Software HealthTech
+### 🩺 Desarrollador de Software HealthTech
 
 Desarrollo aplicaciones web para el sector salud, con más de 3 años de experiencia profesional principalmente en software sanitario. Estoy en Chile y abierto a oportunidades internacionales.
 
@@ -12,7 +12,7 @@ PostgreSQL · MongoDB · Docker
 
 [English](README.md) | **Español** | [日本語](README_JA.md)
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 ### PharmaFlow — Proyecto de portfolio HealthTech full-stack
 
@@ -34,22 +34,22 @@ Utiliza datos ficticios de demostración. No es un sistema médico real, de disp
 
 Aplicación web ligera creada para digitalizar un flujo real basado en papel en una enfermería escolar, incluida la automatización de parte del proceso de declaración de accidente escolar. Demuestra un enfoque pragmático para resolver un problema operacional concreto.
 
-## Experiencia profesional
+## 💼 Experiencia profesional
 
 Soy Ingeniero Informático y Analista Programador, con experiencia en software relacionado con farmacia, logística sanitaria y WMS, sistemas clínicos, software relacionado con oncología e integraciones con ERP. Mi trabajo abarca análisis funcional, desarrollo frontend y backend, integración de APIs, bases de datos, QA y pruebas, y mantenimiento de aplicaciones existentes.
 
 El código profesional desarrollado para empleadores es privado y no forma parte de este GitHub. Los repositorios públicos contienen código propio y proyectos independientes.
 
-## Stack tecnológico
+## 🛠️ Stack tecnológico
 
-- **Frontend:** React · TypeScript · Angular
-- **Backend:** Python · Django · ASP.NET Core / C#
-- **Datos:** PostgreSQL · MongoDB
-- **Infraestructura:** Docker
+- **Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="22" height="22" align="absmiddle" alt="" /> React · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="22" height="22" align="absmiddle" alt="" /> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="22" height="22" align="absmiddle" alt="" /> Angular
+- **Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" height="22" align="absmiddle" alt="" /> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" width="22" height="22" align="absmiddle" alt="" /> Django · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="22" height="22" align="absmiddle" alt="" /> ASP.NET Core / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="22" height="22" align="absmiddle" alt="" /> C#
+- **Datos:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="22" height="22" align="absmiddle" alt="" /> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="22" height="22" align="absmiddle" alt="" /> MongoDB
+- **Infraestructura:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="22" height="22" align="absmiddle" alt="" /> Docker
 
 Tengo experiencia previa con C# / .NET y actualmente refuerzo esos conocimientos mediante el desarrollo de PharmaFlow.
 
-## Aprendizaje e idiomas
+## 🌱 Aprendizaje e idiomas
 
 Estoy estudiando interoperabilidad en salud y HL7 FHIR, patrones avanzados de React y arquitectura moderna de software. A largo plazo, quiero contribuir a proyectos internacionales de HealthTech, incluidos proyectos en Japón.
 
@@ -57,6 +57,6 @@ Estoy estudiando interoperabilidad en salud y HL7 FHIR, patrones avanzados de Re
 - **Inglés:** técnico / documentación
 - **Japonés:** principiante, actualmente estudiando con profesor particular
 
-## Más allá del código
+## 🎹 Más allá del código
 
 También soy pianista autodidacta y músico.

@@ -1,6 +1,6 @@
 # Yordan Andres Chavez Barros · Andrew
 
-### HealthTech Software Developer
+### 🩺 HealthTech Software Developer
 
 I build web applications for healthcare, drawing on more than 3 years of professional experience primarily in healthcare software development. Based in Chile and open to international opportunities.
 
@@ -12,7 +12,7 @@ PostgreSQL · MongoDB · Docker
 
 **English** | [Español](README_ES.md) | [日本語](README_JA.md)
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### PharmaFlow — Full-Stack HealthTech Portfolio Project
 
@@ -34,22 +34,22 @@ Uses fictional demo data. It is not a real medical, dispensing, or patient syste
 
 A lightweight web application created to digitize a real paper-based workflow in a school nursing room, including automation of part of the school accident declaration process. It demonstrates a pragmatic approach to solving a concrete operational problem.
 
-## Professional Background
+## 💼 Professional Background
 
 I'm a Software Engineer and Programmer Analyst with experience in pharmacy-related software, healthcare logistics and WMS, clinical systems, oncology-related software, and ERP integrations. My work spans functional analysis, frontend and backend development, API integration, databases, QA and testing, and maintenance of existing applications.
 
 Professional code developed for employers is private and is not part of this GitHub. Public repositories here contain my own code and independent projects.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend:** React · TypeScript · Angular
-- **Backend:** Python · Django · ASP.NET Core / C#
-- **Data:** PostgreSQL · MongoDB
-- **Infrastructure:** Docker
+- **Frontend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="22" height="22" align="absmiddle" alt="" /> React · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="22" height="22" align="absmiddle" alt="" /> TypeScript · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="22" height="22" align="absmiddle" alt="" /> Angular
+- **Backend:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" height="22" align="absmiddle" alt="" /> Python · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" width="22" height="22" align="absmiddle" alt="" /> Django · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="22" height="22" align="absmiddle" alt="" /> ASP.NET Core / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="22" height="22" align="absmiddle" alt="" /> C#
+- **Data:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postgresql/postgresql-original.svg" width="22" height="22" align="absmiddle" alt="" /> PostgreSQL · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="22" height="22" align="absmiddle" alt="" /> MongoDB
+- **Infrastructure:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="22" height="22" align="absmiddle" alt="" /> Docker
 
 I have previous experience with C# / .NET and am currently strengthening that knowledge through the development of PharmaFlow.
 
-## Currently Learning & Languages
+## 🌱 Currently Learning & Languages
 
 I'm studying healthcare interoperability and HL7 FHIR, advanced React patterns, and modern software architecture. In the long term, I hope to contribute to international HealthTech projects, including in Japan.
 
@@ -57,6 +57,6 @@ I'm studying healthcare interoperability and HL7 FHIR, advanced React patterns, 
 - **English:** technical / documentation
 - **Japanese:** beginner, currently studying with a private teacher
 
-## Beyond Code
+## 🎹 Beyond Code
 
 I'm also a self-taught pianist and musician.

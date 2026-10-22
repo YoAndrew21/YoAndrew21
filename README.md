@@ -1,150 +1,62 @@
-<div align="center">
-
-# Hi, I'm Andrew 👋
+# Yordan Andres Chavez Barros · Andrew
 
 ### HealthTech Software Developer
 
-Building software for healthcare with  
-**React · TypeScript · Angular · Python · Django**
+I build web applications for healthcare, drawing on more than 3 years of professional experience primarily in healthcare software development. Based in Chile and open to international opportunities.
 
-🇨🇱 Chile &nbsp; | &nbsp; 🌎 Open to international opportunities &nbsp; | &nbsp; 🇯🇵 日本語を勉強中
+React · TypeScript · Angular<br>
+Python · Django · ASP.NET Core / C#<br>
+PostgreSQL · MongoDB · Docker
 
-[English](README.md) · [Español](README_ES.md) · [日本語](README_JA.md)
+**[Try PharmaFlow](https://pharmaflow-oux0.onrender.com)** · [Source code](https://github.com/YoAndrew21/pharmaflow)
 
-</div>
+**English** | [Español](README_ES.md) | [日本語](README_JA.md)
 
----
+## Featured Projects
 
-## 🩺 About Me
+### PharmaFlow — Full-Stack HealthTech Portfolio Project
 
-I'm a Software Engineer and Programmer Analyst from Chile with more than
-3 years of professional experience, primarily developing software for
-the healthcare sector.
+An independent medication discovery application built with React, TypeScript, ASP.NET Core / C#, and PostgreSQL 18.
 
-My experience includes systems related to:
+- **Product:** medication catalog, search and filters, medication details, availability across fictional pharmacy branches, and pharmacy details and opening hours.
+- **Experience:** browser-local favorites, English / Spanish / Japanese, light and dark themes, a responsive UI, and an accessibility-oriented implementation.
+- **Engineering:** same-origin production architecture, Docker deployment on Render with Neon PostgreSQL, an explicit database release process, and a read-only PostgreSQL runtime role. Built with Vite, Entity Framework Core, and Npgsql.
 
-- 💊 Pharmacy and medication management
-- 📦 Healthcare logistics and WMS
-- 🏥 Clinical software
-- 🎗️ Oncology systems
-- 🔄 ERP integrations
-- 🧪 Software QA and testing
-- 📊 Functional analysis and process modeling
+**Validated testing snapshot:** 281 frontend tests passed · 360 backend tests passed.
 
-I've worked across the full development lifecycle: understanding existing
-systems, developing frontend and backend functionality, integrating APIs,
-working with databases, testing software, and maintaining applications
-with accumulated technical debt.
+Uses fictional demo data. It is not a real medical, dispensing, or patient system and does not integrate with real pharmacies.
 
-I particularly enjoy taking complex real-world problems and turning them
-into software that is easier for people to use.
+**[Live Demo](https://pharmaflow-oux0.onrender.com) · [Repository](https://github.com/YoAndrew21/pharmaflow)**
 
----
+![PharmaFlow home page in English, desktop dark theme](assets/pharmaflow-preview-en.webp)
 
-## 🚀 What I'm Focusing On
+### School Nursing System
 
-My main focus is **HealthTech**.
+A lightweight web application created to digitize a real paper-based workflow in a school nursing room, including automation of part of the school accident declaration process. It demonstrates a pragmatic approach to solving a concrete operational problem.
 
-I want to continue building software for healthcare while specializing
-further in modern web technologies, particularly:
+## Professional Background
 
-**React · TypeScript · Healthcare Systems · Interoperability**
+I'm a Software Engineer and Programmer Analyst with experience in pharmacy-related software, healthcare logistics and WMS, clinical systems, oncology-related software, and ERP integrations. My work spans functional analysis, frontend and backend development, API integration, databases, QA and testing, and maintenance of existing applications.
 
-In the long term, my goal is to bring my experience in healthcare software
-to international projects, including the Japanese HealthTech industry.
+Professional code developed for employers is private and is not part of this GitHub. Public repositories here contain my own code and independent projects.
 
----
+## Tech Stack
 
-## 💻 Tech Stack
+- **Frontend:** React · TypeScript · Angular
+- **Backend:** Python · Django · ASP.NET Core / C#
+- **Data:** PostgreSQL · MongoDB
+- **Infrastructure:** Docker
 
-### Frontend
+I have previous experience with C# / .NET and am currently strengthening that knowledge through the development of PharmaFlow.
 
-`React` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `SCSS/CSS`
+## Currently Learning & Languages
 
-### Backend
+I'm studying healthcare interoperability and HL7 FHIR, advanced React patterns, and modern software architecture. In the long term, I hope to contribute to international HealthTech projects, including in Japan.
 
-`Python` · `Django` · `REST APIs` · `WebSockets`
+- **Spanish:** native
+- **English:** technical / documentation
+- **Japanese:** beginner, currently studying with a private teacher
 
-### Databases
+## Beyond Code
 
-`PostgreSQL` · `MongoDB` · `SQL` · `Supabase`
-
-### Infrastructure & Services
-
-`Docker` · `Nginx` · `Redis` · `Celery`
-
-### Development Tools
-
-`Git` · `GitLab` · `Postman` · `DBeaver`
-
-### Design & Prototyping
-
-`Figma` · `Figma Make`
-
-### Previous Experience
-
-`C#` · `.NET`
-
----
-
-## 🏥 Selected Projects
-
-I'm currently preparing public versions of some of my projects.
-
-My portfolio will focus primarily on software related to healthcare,
-including:
-
-### 💊 Pharmacy Platform
-Modern pharmacy and medication management experience built with React.
-
-### 🩹 School Nursing System
-A web application created to digitalize a real paper-based workflow
-used by a school nursing room.
-
-### 👴 Elderly Care Management
-A personal project exploring how software can improve administrative
-and care-related workflows in elderly care facilities.
-
-### 🔗 Healthcare Interoperability
-Future projects exploring healthcare interoperability and standards
-such as HL7 FHIR.
-
-> Some of my professional work was developed for private healthcare
-> products and therefore its source code cannot be published.
-> Public repositories here contain only my own code and independent projects.
-
----
-
-## 🌱 Currently Learning
-
-- 🇯🇵 Japanese with a private teacher
-- 🔗 Healthcare interoperability and FHIR
-- ⚛️ Advanced React patterns
-- 🏗️ Modern software architecture
-- ♻️ Refreshing C# / .NET
-
----
-
-## 🌎 Languages
-
-🇨🇱 **Spanish** — Native  
-🇬🇧 **English** — Technical / documentation  
-🇯🇵 **Japanese** — Beginner, actively studying
-
----
-
-## 🎹 Beyond Code
-
-Outside software development, I'm a self-taught pianist and musician.
-
-Programming and music have something in common for me:
-both are about taking many small pieces and turning them into
-something that works as a whole.
-
----
-
-<div align="center">
-
-### Building better software for healthcare, one project at a time. 🩺💻
-
-</div>
+I'm also a self-taught pianist and musician.

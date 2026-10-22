@@ -1,158 +1,62 @@
-<div align="center">
-
-# Hola, soy Andrew 👋
+# Yordan Andres Chavez Barros · Andrew
 
 ### Desarrollador de Software HealthTech
 
-Desarrollo software para el área de la salud con  
-**React · TypeScript · Angular · Python · Django**
+Desarrollo aplicaciones web para el sector salud, con más de 3 años de experiencia profesional principalmente en software sanitario. Estoy en Chile y abierto a oportunidades internacionales.
 
-🇨🇱 Chile &nbsp; | &nbsp; 🌎 Abierto a oportunidades internacionales &nbsp; | &nbsp; 🇯🇵 日本語を勉強中
+React · TypeScript · Angular<br>
+Python · Django · ASP.NET Core / C#<br>
+PostgreSQL · MongoDB · Docker
 
-[English](README.md) · [Español](README_ES.md) · [日本語](README_JA.md)
+**[Probar PharmaFlow](https://pharmaflow-oux0.onrender.com)** · [Código fuente](https://github.com/YoAndrew21/pharmaflow)
 
-</div>
+[English](README.md) | **Español** | [日本語](README_JA.md)
 
----
+## Proyectos destacados
 
-## 🩺 Sobre mí
+### PharmaFlow — Proyecto de portfolio HealthTech full-stack
 
-Soy Ingeniero Informático y Analista Programador de Chile, con más de
-3 años de experiencia profesional, principalmente desarrollando software
-para el sector de la salud.
+Aplicación independiente para consultar medicamentos, desarrollada con React, TypeScript, ASP.NET Core / C# y PostgreSQL 18.
 
-Mi experiencia incluye sistemas relacionados con:
+- **Producto:** catálogo de medicamentos, búsqueda y filtros, detalles de medicamentos, disponibilidad por sucursal de farmacia ficticia e información y horarios de las farmacias.
+- **Experiencia de uso:** favoritos locales del navegador, inglés / español / japonés, temas claro y oscuro, interfaz adaptable e implementación orientada a la accesibilidad.
+- **Ingeniería:** arquitectura de producción con un mismo origen, despliegue con Docker en Render y PostgreSQL en Neon, proceso explícito de publicación de cambios de base de datos y rol de PostgreSQL de solo lectura para la aplicación en ejecución. Utiliza Vite, Entity Framework Core y Npgsql.
 
-- 💊 Farmacia y gestión de medicamentos
-- 📦 Logística sanitaria y WMS
-- 🏥 Software clínico
-- 🎗️ Sistemas relacionados con oncología
-- 🔄 Integraciones con ERP
-- 🧪 QA y pruebas de software
-- 📊 Análisis funcional y modelado de procesos
+**Snapshot validado de pruebas:** 281 pruebas frontend aprobadas · 360 pruebas backend aprobadas.
 
-He trabajado en distintas etapas del ciclo de desarrollo: comprensión de
-sistemas existentes, desarrollo de funcionalidades frontend y backend,
-integración de APIs, trabajo con bases de datos, pruebas de software y
-mantenimiento de aplicaciones con deuda técnica acumulada.
+Utiliza datos ficticios de demostración. No es un sistema médico real, de dispensación ni de pacientes, y no se integra con farmacias reales.
 
-Me interesa especialmente tomar problemas complejos del mundo real y
-transformarlos en software útil y fácil de utilizar.
+**[Demo en vivo](https://pharmaflow-oux0.onrender.com) · [Repositorio](https://github.com/YoAndrew21/pharmaflow)**
 
----
+![Página de inicio de PharmaFlow en español, tema oscuro de escritorio](assets/pharmaflow-preview-es.webp)
 
-## 🚀 En qué me estoy enfocando
+### Sistema de enfermería escolar
 
-Mi principal área de interés es **HealthTech**.
+Aplicación web ligera creada para digitalizar un flujo real basado en papel en una enfermería escolar, incluida la automatización de parte del proceso de declaración de accidente escolar. Demuestra un enfoque pragmático para resolver un problema operacional concreto.
 
-Quiero continuar desarrollando software para el sector de la salud mientras
-profundizo mi experiencia en tecnologías web modernas, especialmente:
+## Experiencia profesional
 
-**React · TypeScript · Sistemas de Salud · Interoperabilidad**
+Soy Ingeniero Informático y Analista Programador, con experiencia en software relacionado con farmacia, logística sanitaria y WMS, sistemas clínicos, software relacionado con oncología e integraciones con ERP. Mi trabajo abarca análisis funcional, desarrollo frontend y backend, integración de APIs, bases de datos, QA y pruebas, y mantenimiento de aplicaciones existentes.
 
-A largo plazo, mi objetivo es llevar mi experiencia en desarrollo de
-software para la salud a proyectos internacionales, incluyendo la
-industria HealthTech de Japón.
+El código profesional desarrollado para empleadores es privado y no forma parte de este GitHub. Los repositorios públicos contienen código propio y proyectos independientes.
 
----
+## Stack tecnológico
 
-## 💻 Stack tecnológico
+- **Frontend:** React · TypeScript · Angular
+- **Backend:** Python · Django · ASP.NET Core / C#
+- **Datos:** PostgreSQL · MongoDB
+- **Infraestructura:** Docker
 
-### Frontend
+Tengo experiencia previa con C# / .NET y actualmente refuerzo esos conocimientos mediante el desarrollo de PharmaFlow.
 
-`React` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `SCSS/CSS`
+## Aprendizaje e idiomas
 
-### Backend
+Estoy estudiando interoperabilidad en salud y HL7 FHIR, patrones avanzados de React y arquitectura moderna de software. A largo plazo, quiero contribuir a proyectos internacionales de HealthTech, incluidos proyectos en Japón.
 
-`Python` · `Django` · `REST APIs` · `WebSockets`
+- **Español:** nativo
+- **Inglés:** técnico / documentación
+- **Japonés:** principiante, actualmente estudiando con profesor particular
 
-### Bases de datos
+## Más allá del código
 
-`PostgreSQL` · `MongoDB` · `SQL` · `Supabase`
-
-### Infraestructura y servicios
-
-`Docker` · `Nginx` · `Redis` · `Celery`
-
-### Herramientas de desarrollo
-
-`Git` · `GitLab` · `Postman` · `DBeaver`
-
-### Diseño y prototipado
-
-`Figma` · `Figma Make`
-
-### Experiencia previa
-
-`C#` · `.NET`
-
----
-
-## 🏥 Proyectos destacados
-
-Actualmente estoy preparando versiones públicas de algunos de mis proyectos.
-
-Mi portafolio estará enfocado principalmente en software relacionado con
-el área de la salud.
-
-### 💊 Plataforma de farmacia
-
-Concepto moderno para la gestión y consulta de medicamentos desarrollado
-con React.
-
-### 🩹 Sistema de enfermería escolar
-
-Aplicación web creada para digitalizar un proceso real basado en documentos
-en papel utilizado por una enfermería escolar.
-
-### 👴 Gestión para residencia de adultos mayores
-
-Proyecto personal que explora cómo el software puede mejorar procesos
-administrativos y relacionados con la atención en residencias de adultos
-mayores.
-
-### 🔗 Interoperabilidad en salud
-
-Futuros proyectos orientados a explorar interoperabilidad y estándares
-utilizados en sistemas de salud, incluyendo HL7 FHIR.
-
-> Parte de mi experiencia profesional corresponde a productos privados
-> del sector salud, por lo que su código fuente no puede ser publicado.
-> Los repositorios públicos de este perfil contienen únicamente código
-> propio y proyectos independientes.
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- 🇯🇵 Japonés con profesor particular
-- 🔗 Interoperabilidad en salud y FHIR
-- ⚛️ Patrones avanzados de React
-- 🏗️ Arquitectura moderna de software
-- ♻️ Actualizando mis conocimientos de C# / .NET
-
----
-
-## 🌎 Idiomas
-
-🇨🇱 **Español** — Nativo  
-🇬🇧 **Inglés** — Técnico / documentación  
-🇯🇵 **Japonés** — Principiante, actualmente estudiando
-
----
-
-## 🎹 Más allá del código
-
-Fuera del desarrollo de software, soy pianista autodidacta y músico.
-
-Para mí, la programación y la música tienen algo en común:
-ambas consisten en tomar muchas piezas pequeñas y convertirlas
-en algo que funciona como un todo.
-
----
-
-<div align="center">
-
-### Construyendo mejor software para la salud, un proyecto a la vez. 🩺💻
-
-</div>
+También soy pianista autodidacta y músico.
